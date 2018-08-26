@@ -1,0 +1,17 @@
+MANIFEST.in
+README.rst
+setup.py
+Django_jene_pdf.egg-info/PKG-INFO
+Django_jene_pdf.egg-info/SOURCES.txt
+Django_jene_pdf.egg-info/dependency_links.txt
+Django_jene_pdf.egg-info/requires.txt
+Django_jene_pdf.egg-info/top_level.txt
+core/__init__.py
+core/jene_engine.py
+django_jene_pdf.egg-info/PKG-INFO
+django_jene_pdf.egg-info/SOURCES.txt
+django_jene_pdf.egg-info/dependency_links.txt
+django_jene_pdf.egg-info/requires.txt
+django_jene_pdf.egg-info/top_level.txt
+jeneprocessor/__init__.py
+jeneprocessor/jenepdf.py

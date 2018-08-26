@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: django-jene-pdf
+Version: 1.0.1
+Summary: open source project designed to generate pdf from django template using xhtml2pdf
+Home-page: https://github.com/thynquest/django-jene-pdf
+Author: Franck Kambiwa
+Author-email: thynquest@gmail.com
+License: MIT
+Description: See the Github project page (https://github.com/thynquest/django-jene-pdf) for more on information
+Keywords: pdf generator from django template using xhtml2pdf
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
